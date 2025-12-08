@@ -2,8 +2,6 @@
 
 #### Napisz funkcję: groupProducts(products) grupuje produkty po kategorii
 
-Grupuje produkty po kategorii
-
 1. Zlicza liczbę produktów w każdej kategorii
 2. Liczy średnią cenę produktów w kategorii
 3. Zwraca wszystko posortowane malejąco po średniej cenie
